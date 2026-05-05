@@ -1,0 +1,121 @@
+{
+  "en": {
+    "titolo": "Christian Panetta",
+    "sottotitolo": "Welcome to my digital world.",
+    "aboutMe": "I'm a Computer Engineer with a solid academic background and a strong passion for offensive security. Currently, I am refining my Full Stack skills by developing complex web and mobile applications. In parallel, I am dedicating my studies to critical vulnerabilities and Penetration Testing techniques, with the goal of evolving into an Ethical Hacker capable not only of writing code, but of bulletproofing it.",
+    "educazione": [
+      { "id": 1, "scuola": "University of Calabria, DIMES Department, Rende (CS), Italy", "corso": "Bachelor’s Degree in Computer Engineering", "anno": "2020 - 2025" }
+    ],
+    "skills": ["C++","JavaScript", "React.js", "Python", "Java", "C", "Assembly", "SQL", "Angular", "Spring Boot", "Bash(Unix/Linux)", "Linux(Ubuntu, Kali)", "Windows", "Android","PostgreSQL","Kotlin"],
+    "interessi": ["Software Programming & Development", "Assembly, maintenance, and repair of electronic circuit boards", "Cyber Security & Ethical Hacking", "Soldering and rework of electronic components on Printed Circuit Boards (PCBs)", "Developing practical penetration testing skills through Capture The Flag (CTF) challenges and Ethical Hacking platforms."],
+    "socialLinks": {
+      "github": "https://github.com/MCPF2001",
+      "linkedin": "https://linkedin.com/in/christian-panetta-3ba350268"
+    },
+    "progetti": [
+      {
+        "id": 1,
+        "titolo": "My Personal Portfolio",
+        "descrizione": "You are looking at it. A scalable web application built with a decoupled architecture: the React frontend consumes dynamic content from a dedicated custom Node.js/Express API.",
+        "tecnologie": ["React", "JavaScript"],
+        "link": "https://github.com/MCPF2001/My-Personal-Portfolio"
+      },
+      {
+        "id": 2,
+        "titolo": "Pizzeria Italy PSW",
+        "descrizione": "Full Stack web application for order management. Implements a RESTful API architecture with Spring Boot and a reactive Angular frontend.",
+        "tecnologie": ["Spring Boot","Angular"],
+        "link": "https://github.com/MCPF2001/Pizzeria-Italy-PSW"
+      },
+      {
+        "id": 3,
+        "titolo": "Bollettino_Dati_Covid_19",
+        "descrizione": "Data analysis tool designed to fetch, parse, and visualize pandemic trends. Developed to handle real-time data processing efficiently.",
+        "tecnologie": ["Python"],
+        "link": "https://github.com/MCPF2001/Bollettino_Dati_Covid_19"
+      },
+      {
+        "id": 4,
+        "titolo": "NitroLinux",
+        "descrizione": "The ultimate Open Source alternative to NitroSense for Linux. Take control of your fans, monitor real-time temperatures, and manage power profiles on your Acer Nitro laptop.",
+        "tecnologie": ["C","C++"],
+        "link": "https://github.com/MCPF2001/NitroLinux"
+      },
+      {
+        "id": 5,
+        "titolo": "Scannerone",
+        "descrizione": "An advanced Android WarDriving application that transforms a smartphone into a geospatial analysis tool for Wi-Fi networks. It implements a mathematical engine to estimate the precise location of access points using Weighted Centroid and Trilateration strategies, optimizing both power consumption and data density through randomized dynamic background scans.",
+        "tecnologie": ["Kotlin"],
+        "link": "https://github.com/io-ti-mobili/Scannerone"
+      }
+    ],
+    "esperienza_lavorativa": [
+      {
+        "id": 1,
+        "nome_azienda": "Maggioli",
+        "ruolo": "Information Systems Intern",
+        "descrizione": "Executed a critical data migration strategy to modernize legacy systems. Refactored business logic from Visual Basic to Java/SQL and engineered robust ETL pipelines using Talend, ensuring data integrity during the transition.",
+        "data_lavorativa": "21/05/2025 – 25/09/2025"
+      }
+    ]
+  },
+  "it": {
+    "titolo": "Christian Panetta",
+    "sottotitolo": "Benvenuto nel mio mondo digitale.",
+    "aboutMe": "Sono un Ingegnere Informatico con una solida base accademica e una forte passione per la sicurezza offensiva. Attualmente, sto affinando le mie competenze Full Stack sviluppando complesse applicazioni web e mobile. Parallelamente, mi sto dedicando allo studio delle vulnerabilità critiche e alle tecniche di Penetration Testing, con l'obiettivo di evolvermi in un Ethical Hacker capace non solo di scrivere codice, ma di renderlo a prova di bomba.",
+    "educazione": [
+      { "id": 1, "scuola": "Università della Calabria, Dipartimento DIMES, Rende (CS), Italia", "corso": "Laurea Triennale in Ingegneria Informatica", "anno": "2020 - 2025" }
+    ],
+    "skills": ["C++","JavaScript", "React.js", "Python", "Java", "C", "Assembly", "SQL", "Angular", "Spring Boot", "Bash(Unix/Linux)", "Linux(Ubuntu, Kali)", "Windows", "Android","PostgreSQL","Kotlin"],
+    "interessi": ["Programmazione e Sviluppo Software", "Assemblaggio, manutenzione e riparazione di schede elettroniche", "Cyber Security e Ethical Hacking", "Saldatura e rilavorazione di componenti elettronici su Circuiti Stampati (PCB)", "Sviluppo di competenze pratiche di penetration testing attraverso sfide Capture The Flag (CTF) e piattaforme di Ethical Hacking."],
+    "socialLinks": {
+      "github": "https://github.com/MCPF2001",
+      "linkedin": "https://linkedin.com/in/christian-panetta-3ba350268"
+    },
+    "progetti": [
+      {
+        "id": 1,
+        "titolo": "Il Mio Portfolio Personale",
+        "descrizione": "Lo stai guardando. Un'applicazione web scalabile costruita con un'architettura disaccoppiata: il frontend React consuma contenuti dinamici da un'API in Node.js/Express dedicata e personalizzata.",
+        "tecnologie": ["React", "JavaScript", "Node.js", "Express"],
+        "link": "https://github.com/MCPF2001/My-Personal-Portfolio"
+      },
+      {
+        "id": 2,
+        "titolo": "Pizzeria Italy PSW",
+        "descrizione": "Applicazione web Full Stack per la gestione degli ordini. Implementa un'architettura API RESTful con Spring Boot e un frontend reattivo in Angular.",
+        "tecnologie": ["Spring Boot","Angular", "Java", "TypeScript"],
+        "link": "https://github.com/MCPF2001/Pizzeria-Italy-PSW"
+      },
+      {
+        "id": 3,
+        "titolo": "Bollettino_Dati_Covid_19",
+        "descrizione": "Strumento di analisi dati progettato per recuperare e visualizzare i trend della pandemia. Sviluppato per gestire efficientemente l'elaborazione dei dati in tempo reale.",
+        "tecnologie": ["Python"],
+        "link": "https://github.com/MCPF2001/Bollettino_Dati_Covid_19"
+      },
+      {
+        "id": 4,
+        "titolo": "NitroLinux",
+        "descrizione": "L'alternativa Open Source definitiva a NitroSense per Linux. Prendi il controllo delle ventole, monitora le temperature in tempo reale e gestisci i profili di alimentazione sul tuo portatile Acer Nitro.",
+        "tecnologie": ["C","C++", "Linux", "Bash"],
+        "link": "https://github.com/MCPF2001/NitroLinux"
+      },
+      {
+        "id": 5,
+        "titolo": "Scannerone",
+        "descrizione": "Applicazione Android avanzata per il WarDriving che trasforma lo smartphone in uno strumento di analisi geospaziale per reti Wi-Fi. Implementa un motore matematico per stimare la posizione reale degli access point tramite strategie di Weighted Centroid e Trilaterazione, ottimizzando il consumo energetico e la densità dei dati grazie a scansioni in background con intervalli dinamici randomizzati.",
+        "tecnologie": ["Kotlin"],
+        "link": "https://github.com/io-ti-mobili/Scannerone"
+      }],
+    "esperienza_lavorativa": [
+      {
+        "id": 1,
+        "nome_azienda": "Maggioli",
+        "ruolo": "Tirocinante Sistemi Informativi",
+        "descrizione": "Eseguita una strategia critica di migrazione dati per modernizzare sistemi legacy. Rifattorizzazione della logica di business da Visual Basic a Java/SQL e ingegnerizzazione di pipeline ETL robuste con Talend, garantendo l'integrità dei dati.",
+        "data_lavorativa": "21/05/2025 – 25/09/2025"
+      }
+    ]
+  }
+}
